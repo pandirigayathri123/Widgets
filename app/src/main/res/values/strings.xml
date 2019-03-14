@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Widget2</string>
+    <string-array name="names">
+        <item>gayathri</item>
+        <item>NARASIMHA RAO</item>
+        <item>LAKSHMI</item>
+        <item>JEEVANA</item>
+        <item>BHAVANI</item>
+        <item>LakshmiNarasimharao</item>
+        <item>navya.d</item>
+        <item>prassana</item>
+        <item>bindhu</item>
+        <item>likhitha.I</item>
+
+    </string-array>
+</resources>
